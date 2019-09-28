@@ -8,7 +8,7 @@
 
 ### **_Javascript_**
 [Simplified JavaScript Jargon | Hugo Giraudel (HugoGiraudel)](https://github.com/joseph-p-pasaoa/SJSJ)
-
+[CodingJS Practice Problems](https://the-winter.github.io/codingjs/)
 
 
 ---
