@@ -10,6 +10,9 @@
 + [Simplified JavaScript Jargon | Hugo Giraudel (HugoGiraudel)](https://github.com/joseph-p-pasaoa/SJSJ)
 + [CodingJS Practice Problems](https://the-winter.github.io/codingjs/)
 
+### **_Web Developing_**
++ [Web Developer's Roadmap '19 | Kamran Ahmed (kamranahmedse)](https://github.com/kamranahmedse/developer-roadmap)
+
 
 ---
 ###### author: Joseph P. Pasaoa
