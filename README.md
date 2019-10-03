@@ -2,6 +2,7 @@
 
 ### **_Interviewing_**
 + [Tech Interview Handbook | Yangshun Taym (yangshun)](https://github.com/joseph-p-pasaoa/tech-interview-handbook)
++ [Front-End Interview Handbook | Yangshun Taym (yangshun)](https://github.com/yangshun/front-end-interview-handbook)
 
 ### **_General Programming_**
 + [Programming Talks | Veit Heller (hellerve)](https://github.com/joseph-p-pasaoa/programming-talks)
