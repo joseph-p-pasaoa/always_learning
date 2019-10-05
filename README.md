@@ -6,6 +6,7 @@
 
 ### **_General Programming_**
 + [Programming Talks | Veit Heller (hellerve)](https://github.com/joseph-p-pasaoa/programming-talks)
++ [Standards Guides | thoughtbot, inc. (thoughtbot)](https://github.com/joseph-p-pasaoa/guides)
 
 ### **_Javascript_**
 + [Simplified JavaScript Jargon | Hugo Giraudel (HugoGiraudel)](https://github.com/joseph-p-pasaoa/SJSJ)
