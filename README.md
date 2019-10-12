@@ -10,7 +10,7 @@
 
 ### **_Javascript_**
 + [Simplified JavaScript Jargon | Hugo Giraudel (HugoGiraudel)](https://github.com/joseph-p-pasaoa/SJSJ)
-+ [CodingJS Practice Problems](https://the-winter.github.io/codingjs/)
++ [CodingJS Practice Problems](https://codingjs.wmcicompsci.ca/)
 + [TypeOfNaN JavaScript Quizzes](https://quiz.typeofnan.dev/)
 
 ### **_Web Developing_**
