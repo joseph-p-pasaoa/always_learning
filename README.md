@@ -16,6 +16,7 @@
 ### **_Web Developing_**
 + [Web Developer's Roadmap '19 | Kamran Ahmed (kamranahmedse)](https://github.com/kamranahmedse/developer-roadmap)
 
-
+### **_CSS_**
++ [Fifty Shades of BEM | Kaelig](https://blog.kaelig.fr/post/48196348743/fifty-shades-of-bem)
 ---
 ###### author: Joseph P. Pasaoa
