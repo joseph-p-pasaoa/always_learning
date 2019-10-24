@@ -8,6 +8,9 @@
 + [Programming Talks | Veit Heller (hellerve)](https://github.com/joseph-p-pasaoa/programming-talks)
 + [Standards Guides | thoughtbot, inc. (thoughtbot)](https://github.com/joseph-p-pasaoa/guides)
 
+### **_SQL_**
++ [SQL Style Guide | Simon Holywell (@Treffynnon)](https://www.sqlstyle.guide/)
+
 ### **_Javascript_**
 + [Simplified JavaScript Jargon | Hugo Giraudel (HugoGiraudel)](https://github.com/joseph-p-pasaoa/SJSJ)
 + [CodingJS Practice Problems](https://codingjs.wmcicompsci.ca/)
