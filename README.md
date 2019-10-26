@@ -12,6 +12,9 @@
 + [Tools & techniques for working with relational databases | danhuss](https://github.com/danhuss/awesome-sql)
 + [SQL Style Guide | Simon Holywell (@Treffynnon)](https://www.sqlstyle.guide/)
 
+### **_ExpressJS_**
++ [A curated list of awesome express.js resources | Rajika Imal (rajikaimal)](https://github.com/rajikaimal/awesome-express)
+
 ### **_Javascript_**
 + [Simplified JavaScript Jargon | Hugo Giraudel (HugoGiraudel)](https://github.com/joseph-p-pasaoa/SJSJ)
 + [CodingJS Practice Problems](https://codingjs.wmcicompsci.ca/)
