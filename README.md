@@ -9,6 +9,7 @@
 + [Standards Guides | thoughtbot, inc. (thoughtbot)](https://github.com/joseph-p-pasaoa/guides)
 
 ### **_SQL_**
++ [Tools & techniques for working with relational databases | danhuss](https://github.com/danhuss/awesome-sql)
 + [SQL Style Guide | Simon Holywell (@Treffynnon)](https://www.sqlstyle.guide/)
 
 ### **_Javascript_**
